@@ -72,18 +72,6 @@ Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
 - ⚡ **Intelligent Motor Control Centre (IMCC)**  
 - 🌱 **Wind-Stitch – Decentralized Energy System**  
 
----
-
-### 📊 GitHub Stats
-![Yuvan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
 ### 🔗 Connect with Me
 <p align="center">
 
