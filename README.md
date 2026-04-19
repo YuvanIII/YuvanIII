@@ -10,12 +10,13 @@ Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Electrical & Electronics Engineering student at IIT Patna
+- 🎓 Electrical & Electronics Engineering student at IIT Patna  
+- 🚀 Former Intern at ISRO (Electrical Systems Domain)  
+- 🔌 Passionate about Embedded Systems & Hardware Design  
 - 📊 Exploring Data Engineering, Machine Learning & AI  
 - ⚙️ Building real-world projects using data + systems thinking  
 - 🤝 Open to collaboration in Embedded, Data, AI & Robotics  
-- 🚀 Former Intern at ISRO (Electrical Systems Domain)  
-- 🔌 Passionate about Embedded Systems & Hardware Design  
+- 🏸 Inter IIT Badminton Player  
 - 📫 Reach me at: **yuvanvanapalli@gmail.com**  
 
 ---
@@ -62,15 +63,23 @@ Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects & Experience
 - 📊 **Web Scraping Indian Startups Data**  
   → Extracted structured startup data for trend analysis  
 
 - 🚦 **Heavy Traffic Indicators on I-94**  
   → Data analysis + ML for traffic prediction  
 
+- 🤖 **DD Robocon Project**  
+  → Worked on robotics systems involving embedded control and real-time operation  
+
+- ⚡ **Inter IIT Tech Meet 2025 Project**  
+  → Contributed to a competitive engineering project with system-level design  
+
 - ⚡ **Intelligent Motor Control Centre (IMCC)**  
 - 🌱 **Wind-Stitch – Decentralized Energy System**  
+
+---
 
 ### 🔗 Connect with Me
 <p align="center">
@@ -79,7 +88,7 @@ Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/YuvanIII">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
