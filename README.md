@@ -10,12 +10,12 @@ Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
 ---
 
 ### 👨‍💻 About Me
-- 🎓 Electrical & Electronics Engineering student at IIT Patna  
-- 🚀 Former Intern at ISRO (Electrical Systems Domain)  
-- 🔌 Passionate about Embedded Systems & Hardware Design  
+- 🎓 Electrical & Electronics Engineering student at IIT Patna
 - 📊 Exploring Data Engineering, Machine Learning & AI  
 - ⚙️ Building real-world projects using data + systems thinking  
 - 🤝 Open to collaboration in Embedded, Data, AI & Robotics  
+- 🚀 Former Intern at ISRO (Electrical Systems Domain)  
+- 🔌 Passionate about Embedded Systems & Hardware Design  
 - 📫 Reach me at: **yuvanvanapalli@gmail.com**  
 
 ---
