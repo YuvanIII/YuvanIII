@@ -23,24 +23,24 @@ I'm open to collaborating on embedded, electronics, IoT, and robotics projects.
 
 ### Focus Areas
 
-- **Firmware development** — bare-metal and microcontroller programming in C/C++
-- **Embedded systems** — peripheral interfacing, real-time control, sensor integration
-- **IoT** — connected devices from hardware and firmware to connectivity
-- **Electronics & circuit design** — schematic design, simulation, prototyping and debugging
-- **Control & power systems** — motor control and electrical system design
-- **Data** — analysing sensor and system data with Python
+- **Firmware development:** bare-metal and microcontroller programming in C/C++
+- **Embedded systems:** peripheral interfacing, real-time control, sensor integration
+- **IoT:** connected devices from hardware and firmware to connectivity
+- **Electronics & circuit design:** schematic design, simulation, prototyping and debugging
+- **Control & power systems:** motor control and electrical system design
+- **Data:** analysing sensor and system data with Python
 
 ---
 
 ### Experience
 
-**Temple** — Firmware Engineer Intern  
+**Temple** | Firmware Engineer Intern  
 Worked across firmware, electronics, and hardware, beyond the firmware itself, from development through testing and debugging.
 
-**Stealth Startup** — IoT Engineer Intern  
+**Stealth Startup** | IoT Engineer Intern  
 Developed connected devices spanning embedded hardware, firmware, and device connectivity.
 
-**ISRO** — Intern, Electrical Systems  
+**ISRO** | Intern, Electrical Systems  
 Worked within the electrical systems domain on space-grade hardware and systems.
 
 **DD Robocon, IIT Patna**  
@@ -48,6 +48,16 @@ Developed embedded control for competition robots with real-time operation requi
 
 **Inter IIT Tech Meet 2025**  
 Contributed to system-level design for IIT Patna's competition entry.
+
+---
+
+### Leadership & Activities
+
+**Students' Gymkhana, IIT Patna** | Vice President  
+Represent the student body and oversee student activities across the institute.
+
+**Inter IIT Sports Meet** | Badminton  
+Represented IIT Patna in badminton.
 
 ---
 
@@ -89,7 +99,3 @@ Contributed to system-level design for IIT Patna's competition entry.
 **Tools**  
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-
----
-
-<p align="center"><sub>Also an Inter IIT badminton player.</sub></p>
