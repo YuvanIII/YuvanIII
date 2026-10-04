@@ -1,99 +1,95 @@
-<h1 align="center">Hi 👋, I'm Yuvan Vanapalli</h1>
-<h3 align="center">Electrical & Electronics Engineering @ IIT Patna | Embedded Systems | Data & AI</h3>
+<h2 align="center">Yuvan Vanapalli</h2>
 
----
-
-<h3 align="center">
-Building at the intersection of Hardware, Data, and Intelligent Systems 🇮🇳
-</h3>
-
----
-
-### 👨‍💻 About Me
-- 🎓 Electrical & Electronics Engineering student at IIT Patna  
-- 🚀 Former Intern at ISRO (Electrical Systems Domain)  
-- 🔌 Passionate about Embedded Systems & Hardware Design  
-- 📊 Exploring Data Engineering, Machine Learning & AI  
-- ⚙️ Building real-world projects using data + systems thinking  
-- 🤝 Open to collaboration in Embedded, Data, AI & Robotics  
-- 🏸 Inter IIT Badminton Player  
-- 📫 Reach me at: **yuvanvanapalli@gmail.com**  
-
----
-
-### 🛠️ Languages and Tools
 <p align="center">
+Electrical & Electronics Engineering &nbsp;·&nbsp; IIT Patna<br/>
+Firmware &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; Electronics
+</p>
 
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=Mathworks"/>
-
-<img src="https://img.shields.io/badge/Embedded%20C-323330?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
-
-<img src="https://img.shields.io/badge/PIC%20Microcontroller-003B6F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LTspice-900028?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Web%20Scraping-4CAF50?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux"/>
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuvan-vanapalli-2912yv05/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/YuvanIII"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="mailto:yuvanvanapalli@gmail.com"><img src="https://img.shields.io/badge/Email-yuvanvanapalli%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⚡ Domains I Work In
-- 🔧 Embedded Systems & Microcontrollers  
-- 📊 Data Analysis & Data Engineering  
-- 🤖 Machine Learning & AI  
-- ⚙️ Control Systems & Electrical Engineering  
+### About
+
+I'm an Electrical & Electronics Engineering student at IIT Patna working mainly on firmware and embedded hardware: writing code that runs close to the metal, designing and debugging circuits, and bringing up boards from schematic to working system. I've interned as a firmware engineer at Temple, as an IoT engineer at a stealth startup, and at ISRO in the electrical systems domain. Alongside hardware, I use data analysis to understand and validate the systems I build.
+
+I'm open to collaborating on embedded, electronics, IoT, and robotics projects.
 
 ---
 
-### 🚀 Featured Projects & Experience
-- 📊 **Web Scraping Indian Startups Data**  
-  → Extracted structured startup data for trend analysis  
+### Focus Areas
 
-- 🚦 **Heavy Traffic Indicators on I-94**  
-  → Data analysis + ML for traffic prediction  
-
-- 🤖 **DD Robocon Project**  
-  → Worked on robotics systems involving embedded control and real-time operation  
-
-- ⚡ **Inter IIT Tech Meet 2025 Project**  
-  → Contributed to a competitive engineering project with system-level design  
-
-- ⚡ **Intelligent Motor Control Centre (IMCC)**  
-- 🌱 **Wind-Stitch – Decentralized Energy System**  
+- **Firmware development** — bare-metal and microcontroller programming in C/C++
+- **Embedded systems** — peripheral interfacing, real-time control, sensor integration
+- **IoT** — connected devices from hardware and firmware to connectivity
+- **Electronics & circuit design** — schematic design, simulation, prototyping and debugging
+- **Control & power systems** — motor control and electrical system design
+- **Data** — analysing sensor and system data with Python
 
 ---
 
-### 🔗 Connect with Me
-<p align="center">
+### Experience
 
-<a href="https://www.linkedin.com/in/yuvan-vanapalli-2912yv05/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+**Temple** — Firmware Engineer Intern  
+Worked across firmware, electronics, and hardware, beyond the firmware itself, from development through testing and debugging.
 
-<a href="https://github.com/YuvanIII">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+**Stealth Startup** — IoT Engineer Intern  
+Developed connected devices spanning embedded hardware, firmware, and device connectivity.
 
-<a href="mailto:yuvanvanapalli@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
+**ISRO** — Intern, Electrical Systems  
+Worked within the electrical systems domain on space-grade hardware and systems.
 
-</p>
+**DD Robocon, IIT Patna**  
+Developed embedded control for competition robots with real-time operation requirements.
+
+**Inter IIT Tech Meet 2025**  
+Contributed to system-level design for IIT Patna's competition entry.
+
+---
+
+### Projects
+
+| Project | Description |
+|---|---|
+| **Intelligent Motor Control Centre (IMCC)** | Embedded motor control and monitoring system |
+| **Wind-Stitch** | Decentralized wind energy system |
+| **Heavy Traffic Indicators on I-94** | Exploratory analysis of traffic data to identify heavy-traffic indicators |
+| **Indian Startups Data** | Web scraping pipeline producing a structured dataset for trend analysis |
+
+---
+
+### Tech Stack
+
+**Languages**  
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded_C-323330?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/MATLAB-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
+
+**Hardware & Platforms**  
+<img src="https://img.shields.io/badge/PIC-003B6F?style=flat-square&logo=microchip&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
+
+**Design & Simulation**  
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-900028?style=flat-square"/>
+<img src="https://img.shields.io/badge/Simulink-E16737?style=flat-square&logo=mathworks&logoColor=white"/>
+
+**Data**  
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+**Tools**  
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+
+---
+
+<p align="center"><sub>Also an Inter IIT badminton player.</sub></p>
