@@ -17,6 +17,8 @@ Firmware &nbsp;·&nbsp; Embedded Systems &nbsp;·&nbsp; Electronics
 
 I'm an Electrical & Electronics Engineering student at IIT Patna working mainly on firmware and embedded hardware: writing code that runs close to the metal, designing and debugging circuits, and bringing up boards from schematic to working system. I've interned as a firmware engineer at Temple, as an IoT engineer at a stealth startup, and at ISRO in the electrical systems domain. Alongside hardware, I use data analysis to understand and validate the systems I build.
 
+Most of my work lives on circuit boards, lab benches, and internship codebases that aren't public, so my GitHub activity shows only a small part of what I build. I'm happy to walk through any project in detail, from schematics to firmware.
+
 I'm open to collaborating on embedded, electronics, IoT, and robotics projects.
 
 ---
